@@ -12,5 +12,9 @@ namespace delagate
         static T Sum <T>(T n, T m){
             return (dynamic)n + (dynamic)m;
         }
+        
+        static T Multiplication <T>(T n, T m){
+            return (dynamic)n * (dynamic)m;
+        }
     }
 }

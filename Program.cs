@@ -20,5 +20,9 @@ namespace delagate
         static T Difference <T>(T n, T m){
             return (dynamic)n - (dynamic)m;
         }
+        
+        static T Ratio <T>(T n, T m){
+            return (dynamic)n / (dynamic)m;
+        }
     }
 }

@@ -1,8 +1,8 @@
 ﻿using System;
-
+using System.Collections.Generic;
 namespace delagate
 {
-        delegate T Calculate<T>();
+        delegate T Calculate<T>(T n, T m);
     class Program
     {
         static void Main(string[] args)
@@ -28,7 +28,7 @@ namespace delagate
                         System.Console.WriteLine($"Result: {act.Invoke(firstNumb, secondNumb)}");
                     } ;break;
                     case "3":{
-                        Calculate<double> act = Difference<double>;
+                        Calculate<double> act = Difference <double>;
                         System.Console.WriteLine($"Result: {act.Invoke(firstNumb, secondNumb)}");
                     } ;break;
                     case "4":{

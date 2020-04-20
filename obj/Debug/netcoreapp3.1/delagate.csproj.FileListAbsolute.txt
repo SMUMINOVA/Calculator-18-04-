@@ -1,0 +1,4 @@
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.AssemblyInfo.cs

@@ -8,5 +8,9 @@ namespace delagate
         {
             Console.WriteLine("Hello World!");
         }
+        
+        static T Sum <T>(T n, T m){
+            return (dynamic)n + (dynamic)m;
+        }
     }
 }

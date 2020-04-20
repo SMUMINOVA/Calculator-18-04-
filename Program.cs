@@ -4,6 +4,7 @@ namespace delagate
 {
     class Program
     {
+        delegate T Calculate<T>();
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");

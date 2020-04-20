@@ -16,5 +16,9 @@ namespace delagate
         static T Multiplication <T>(T n, T m){
             return (dynamic)n * (dynamic)m;
         }
+        
+        static T Difference <T>(T n, T m){
+            return (dynamic)n - (dynamic)m;
+        }
     }
 }

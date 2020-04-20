@@ -2,3 +2,12 @@
 /home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.csproj.CoreCompileInputs.cache
 /home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.AssemblyInfoInputs.cache
 /home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/delagate/bin/Debug/netcoreapp3.1/delagate
+/home/sobira/Рабочий стол/c#/delagate/bin/Debug/netcoreapp3.1/delagate.deps.json
+/home/sobira/Рабочий стол/c#/delagate/bin/Debug/netcoreapp3.1/delagate.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/delagate/bin/Debug/netcoreapp3.1/delagate.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/delagate/bin/Debug/netcoreapp3.1/delagate.dll
+/home/sobira/Рабочий стол/c#/delagate/bin/Debug/netcoreapp3.1/delagate.pdb
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.dll
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.pdb
+/home/sobira/Рабочий стол/c#/delagate/obj/Debug/netcoreapp3.1/delagate.genruntimeconfig.cache
